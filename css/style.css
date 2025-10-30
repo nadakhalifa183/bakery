@@ -342,7 +342,7 @@ h4{
 
 
 
- .right-who{
+ .right-container{
     
     display: flex; 
     flex-direction: column;
@@ -416,3 +416,24 @@ border-radius: 4px;
       flex-direction: column;
       justify-content: center;
           }
+
+          /* ========  contact========= */
+
+          .contact {
+            background: #f8f8f8;
+          
+         } 
+
+     .contact .container{
+        background: #f8f8f8;
+        display: flex;
+        justify-content: center;
+     } 
+     
+     .contact .features-list i{
+        color: #fff;
+    background: #aaa;
+    background-color: #8e7754;
+
+     }
+
